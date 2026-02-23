@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-cout<<"Hello World!";
+cout<<"qadeer!";
 return 0;	
 }
-
